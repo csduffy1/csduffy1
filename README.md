@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Christian
 - 👀 I’m interested in sports, food & data
 - 🌱 I’m currently learning programming languages(SQL,Python) & Data Visualization in Tableau
-- 📫 How to reach me : csduffy1@gmail.com
+- 📫 How to reach me : csduffy1@gmail.com or (774)240-0844
 - 😄 Pronouns: She/Her
 
 
